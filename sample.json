@@ -1,0 +1,29 @@
+
+{
+"customKey":"This is a test file for the project. It is a replica of an exported Telegram data file containig contacts only. NOTE: This key does not exist in the exported json file",
+ "about": "Here is the data you requested. Remember: Telegram is ad free, it doesn't use your data for ad targeting and doesn't sell it to others. Telegram only keeps the information it needs to function as a secure and feature-rich cloud service.\n\nCheck out Settings > Privacy & Security on Telegram's mobile apps for the relevant settings.",
+ "contacts": {
+  "about": "If you allow access, your contacts are continuously synced with Telegram. Thanks to this, you can easily switch to Telegram and immediately connect with friends across all your devices. We use data about your contacts to let you know when they join Telegram, and to display them by the name you set for them in your phone.\n\nYou can disable contact syncing or delete your stored contacts in Settings > Privacy & Security on Telegram's mobile apps.",
+  "list": [
+   {
+    "first_name": "Jack",
+    "last_name": "Mugoya",
+    "phone_number": "+254712345678",
+    "date": "2022-07-09T21:53:47",
+    "date_unixtime": "1657392827"
+   }
+  ]
+ },
+ "frequent_contacts": {
+  "about": "This rating shows which people you are likelier to message frequently. Telegram uses this data to populate the 'People' box at the top of the Search section. This rating is also calculated for inline bots so that the app can suggest the bots you are most likely to use in the attachment menu (or when you start a new message with \"@\").\n\nTo delete this data, go to Settings > Privacy & Security and disable 'Suggest Frequent Contacts' (requires Telegram for iOS v.4.8.3 or Telegram for Android v.4.8.10 or higher).",
+  "list": [
+   {
+    "id": 6532854685,
+    "category": "people",
+    "type": "user",
+    "name": "Kate",
+    "rating": 23.886436
+   }
+  ]
+ }
+}
